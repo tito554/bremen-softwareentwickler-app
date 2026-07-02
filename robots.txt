@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bremen.softwareentwickler.app/sitemap.xml
